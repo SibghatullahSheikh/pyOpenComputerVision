@@ -1,0 +1,4 @@
+Computer Vision Test Images: http://www.cs.cmu.edu/~cil/v-images.html
+
+test.mpg: http://homepages.inf.ed.ac.uk/rbf/CAVIARDATA1/
+test.jpg: http://staff.science.uva.nl/~aloi/
